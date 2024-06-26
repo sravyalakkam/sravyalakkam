@@ -1,13 +1,13 @@
-<h1 align="center">Hi 👋, I'm Sravya Lakkam</h1>
-<h3 align="center">A passionate Full-Stack Developer</h3>
+<h1 align="center">Hi!, I'm Sravya!</h1>
+<h3 align="center">Full-Stack Developer</h3>
 
-- 🌱 I’m currently learning **DSA, React, Spring Boot**
+🌱 I’m currently learning **DSA, React, Spring Boot**
 
-- 📝 I regularly write articles on [https://medium.com/@sravyalakkam](https://medium.com/@sravyalakkam)
+📝 I regularly write articles on [https://medium.com/@sravyalakkam](https://medium.com/@sravyalakkam)
 
-- 💬 Ask me about **Java, C#**
+💬 Ask me about **Java, C#**
 
-- 📫 How to reach me **sravya365.reddy@gmail.com**
+📫 How to reach me **sravya365.reddy@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
