@@ -3,8 +3,6 @@
 
 🌱 I’m currently learning **DSA, React, Spring Boot**
 
-📝 I regularly write articles on [https://medium.com/@sravyalakkam](https://medium.com/@sravyalakkam)
-
 💬 Ask me about **Java, C#**
 
 📫 How to reach me **sravya365.reddy@gmail.com**
