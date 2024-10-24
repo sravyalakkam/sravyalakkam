@@ -1,5 +1,5 @@
 <h1 align="center">Hi!, I'm Sravya!</h1>
-<h3 align="center">Full-Stack Developer</h3>
+<h3 align="center">Aspiring SDE</h3>
 
 🌱 I’m currently learning **DSA, React, Spring Boot**
 
